@@ -1,2 +1,2 @@
-# misuki-travels-
+# misuki-travels
 word press prject
